@@ -10,4 +10,4 @@
   - 분류 목적 : 재활용 종류의 분류(종이, 플라스틱, 패트병)
 - 테스트 결과 성능 : 정확도 89%
 
-## 2 pytorch 공부 기록
+## 2 [pytorch 공부 기록](https://github.com/whatareyoudoingz/personal_projects/tree/main/pytorch_study)
