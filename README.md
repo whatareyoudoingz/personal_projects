@@ -1,7 +1,6 @@
 # personal_projects
 
-## 1 : 재활용 쓰레기 종류 분류
-- 파일 : A_Z (1).ipynb
+## 1 : [재활용 쓰레기 종류 분류](https://github.com/whatareyoudoingz/personal_projects/blob/main/A_Z%20(1).ipynb)
   - 개발 언어 : 파이썬
   - 관련 프로젝트 : [프로메테우스 해커톤](https://github.com/Recycle-detection/recycle-project)
   - 모델의 입/출력
