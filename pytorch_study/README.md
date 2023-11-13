@@ -2,3 +2,4 @@
 ---
 
 ### - [1week](https://github.com/whatareyoudoingz/personal_projects/blob/main/pytorch_study/1.ipynb)
+### - [2week](https://github.com/whatareyoudoingz/personal_projects/blob/main/pytorch_study/2.ipynb)
